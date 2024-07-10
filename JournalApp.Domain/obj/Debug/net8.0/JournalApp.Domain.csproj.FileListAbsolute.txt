@@ -1,0 +1,14 @@
+C:\Core\Projects\JournalApp\JournalApp.Domain\bin\Debug\net8.0\JournalApp.Domain.deps.json
+C:\Core\Projects\JournalApp\JournalApp.Domain\bin\Debug\net8.0\JournalApp.Domain.runtimeconfig.json
+C:\Core\Projects\JournalApp\JournalApp.Domain\bin\Debug\net8.0\JournalApp.Domain.dll
+C:\Core\Projects\JournalApp\JournalApp.Domain\bin\Debug\net8.0\JournalApp.Domain.pdb
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.csproj.AssemblyReference.cache
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.AssemblyInfoInputs.cache
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.AssemblyInfo.cs
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.csproj.CoreCompileInputs.cache
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.dll
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\refint\JournalApp.Domain.dll
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.pdb
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\JournalApp.Domain.genruntimeconfig.cache
+C:\Core\Projects\JournalApp\JournalApp.Domain\obj\Debug\net8.0\ref\JournalApp.Domain.dll
